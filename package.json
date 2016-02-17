@@ -1,0 +1,15 @@
+{
+  "name": "contrib-requirejs",
+  "version": "0.0.0",
+  "description": "RequireJS sourcemap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Surender Lohia",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-requirejs": "^0.4.4"
+  }
+}
